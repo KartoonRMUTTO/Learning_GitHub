@@ -9,8 +9,8 @@ A brief description of what this project does and who it's for
 
 ## Demo
 
-Insert gif or link to demo
-
+Insert gif or link to demo1
+Insert gif or link to demo2
 
 ## Acknowledgements
 
