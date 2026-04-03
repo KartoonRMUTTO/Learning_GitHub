@@ -2,7 +2,7 @@
 เริ่มต้นการใช้งาน GitHub ครั้งแรก
 
 <<<<<<< HEAD
-# Project Title
+# Learning GitHub for Use Developer
 
 A brief description of what this project does and who it's for
 
