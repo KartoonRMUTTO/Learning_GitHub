@@ -3,6 +3,7 @@ It's self-learning at a beginner level, the first time using GitHub thru the Git
 เป็นการเรียนรู้ด้วยตัวเองในระดับผู้เริ่มต้น ครั้งแรกในการใช้งาน GitHub โดยการใช้งานผ่าน GitHub Desktop GUI ช่วยให้ Kartoon สามารถจัดการโครงการและไฟล์ได้ และเข้าใจง่าย
 
 ## Lessons Learned
+---Learn Date 2026.04.20---
 1. "Repository" or "REPO"  creation on Web [browser](https://github.com/KartoonRMUTTO)
 2. "Clone" a repository : Cilck “File” > “Clone repository” choose Repo from GitHub browser choose Local Path > click clone
 3. "Commit" is the creation of a save point on the computer, and it is necessary to specify a Description.
